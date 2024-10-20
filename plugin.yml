@@ -1,0 +1,5 @@
+name: HMissions
+version: 1.0.0
+main: Missions\Main
+api: 5.0.0
+depend: []
